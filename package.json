@@ -22,6 +22,7 @@
   "devDependencies": {
     "eslint": "^3.6.1",
     "eslint-config-airbnb-base": "^8.0.0",
+    "eslint-plugin-import": "^2.0.0",
     "espower-loader": "^1.0.1",
     "intelli-espower-loader": "^1.0.1",
     "memory-streams": "^0.1.0",
