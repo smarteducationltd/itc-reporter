@@ -1,5 +1,5 @@
 {
-  "name": "its-reporter",
+  "name": "itc-reporter",
   "version": "1.0.0",
   "description": "iTunes Connect Reporter Tool for Node.js",
   "main": "lib/itc-reporter.js",
