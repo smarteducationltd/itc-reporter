@@ -1,7 +1,7 @@
 # its-reporter
 
 [![wercker status](https://app.wercker.com/status/fa4c22199d5528618ca299e534c511d5/s/master "wercker status")](https://app.wercker.com/project/byKey/fa4c22199d5528618ca299e534c511d5)
-[![Dependency Status](https://gemnasium.com/badges/github.com/smarteducationltd/its-reporter.svg)](https://gemnasium.com/github.com/smarteducationltd/its-reporter)
+[![Dependency Status](https://gemnasium.com/badges/github.com/smarteducationltd/itc-reporter.svg)](https://gemnasium.com/github.com/smarteducationltd/itc-reporter)
 
 [iTunes Connect Reporter Tool](http://help.apple.com/itc/appsreporterguide/) for Node.js
 
