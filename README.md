@@ -20,8 +20,8 @@ const itcReporter = require('itc-reporter');
 const zlib = require('zlib');
 
 const reporter = new itcReporter.Sales({
-  userId: 'YOUR USER ID',
-  password: 'YOUR PASSWORD',
+  accessToken: 'YOUR ACCESS TOKEN',
+  account: 'YOUR ACCOUNT',
   mode: 'Robot.XML',
 });
 const reader = reporter.getReport({
@@ -45,8 +45,8 @@ const itcReporter = require('itc-reporter');
 const zlib = require('zlib');
 
 const reporter = new itcReporter.Finance({
-  userId: 'YOUR USER ID',
-  password: 'YOUR PASSWORD',
+  accessToken: 'YOUR ACCESS TOKEN',
+  account: 'YOUR ACCOUNT',
   mode: 'Robot.XML',
 });
 const reader = reporter.getReport({
